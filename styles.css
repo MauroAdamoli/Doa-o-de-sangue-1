@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+body{
+background-color: #B43131;
+color: #F6F6F6;
+}
+
+img{
+  width: 250;
+  height: 250;
+}
+
+h1{
+margin: 50px;
+font-size: 100px;
+text-align: center;
+}
+
+h3{
+font-size: 40px;
+}
+
+h4{
+  margin: 10px;
+}
+
+ol{
+font-size: 15px;
+margin: 10px;
+}
+
+h4{
+font-size: 20px;
+}
+
+p{
+font-size: 25px;
+}
+
+footer{
+text-align: center;
+margin: 40px;
+}
